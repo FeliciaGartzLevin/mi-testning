@@ -1,4 +1,4 @@
-
+// export {}  //löser problemet med squiggly lines på describe, men johan ville hellre ha en tsconfig
 
 
 describe('homepage', () => {
