@@ -18,7 +18,12 @@
     {
       "id": 4,
       "title": "🤖 Learn API mocking",
-      "completed": false
+      "completed": true
+    },
+    {
+      "title": "Make e2e test",
+      "completed": false,
+      "id": 5
     }
   ]
 }
