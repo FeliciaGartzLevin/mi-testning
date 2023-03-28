@@ -1,5 +1,5 @@
 {
-  "name": "03-integration-testing-frontend",
+  "name": "05-e2e-testing",
   "private": true,
   "version": "0.0.0",
   "type": "module",
